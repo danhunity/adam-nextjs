@@ -1,3 +1,5 @@
-export default function HomePage() {
-  return <div>Home page</div>;
+import { CustomAppShell } from "../components/CustomAppShell"
+
+export default function page() {
+  return
 }
